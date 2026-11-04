@@ -1,70 +1,79 @@
 
 <div align="center">
 
-<img src="./header.svg" width="100%" alt="Raphael José - Cyberpunk Developer"/>
+<img src="./header.svg" width="100%" alt="Raphael José Cyberpunk"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING+SYSTEM...;%3E+HELLO%2C+I'M+RAPHAEL+JOSE;%3E+DEVELOPING+THE+FUTURE;%3E+TURNING+IDEAS+INTO+CODE" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=%3E+SYSTEM+INITIALIZED;%3E+WELCOME%2C+I'M+RAPHAEL+JOSE;%3E+BUILDING+THE+FUTURE;%3E+CODE.+CREATE.+EVOLVE." alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=raphael-jose&style=for-the-badge&color=00d9ff&label=PROFILE+VISITORS"/>
+<img src="https://komarev.com/ghpvc/?username=raphael-jose&style=for-the-badge&color=00e5ff&label=PROFILE+VISITORS"/>
 
 </div>
 
 ---
 
-## `01 // WHO AM I?`
+<h2 align="center">⚡ ABOUT ME</h2>
 
 ```bash
-raphael@cyberworld:~$ whoami
+┌──(raphael㉿cyberworld)-[~]
+└─$ whoami
 
-> Name: Raphael José
-> Role: Developer in progress
-> Focus: Programming & Technology
-> Mindset: Learn. Build. Evolve.
-> Status: ONLINE
+  NAME     : Raphael José
+  ROLE     : Developer in progress
+  PASSION  : Technology & Programming
+  MINDSET  : Learn / Build / Evolve
+  STATUS   : ONLINE
 ```
 
-> "The future is written in code."
-
----
-
-## `02 // TECH ARSENAL`
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML CSS JavaScript"/>
+*"The future is written in code."*
 
 </div>
 
 ---
 
-## `03 // GITHUB ANALYTICS`
+<h2 align="center">💻 TECH ARSENAL</h2>
 
 <div align="center">
 
-<img width="100%" src="./github-metrics.svg" alt="GitHub Analytics"/>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Technologies"/>
 
 </div>
 
 ---
 
-## `04 // CONNECT WITH ME`
+<h2 align="center">📡 GITHUB ANALYTICS</h2>
+
+<div align="center">
+
+<img src="./github-metrics.svg" width="100%" alt="GitHub Metrics"/>
+
+</div>
+
+---
+
+<h2 align="center">🌐 ESTABLISH CONNECTION</h2>
 
 <div align="center">
 
 <a href="https://www.instagram.com/raphael_b.taylor/">
 <img src="https://img.shields.io/badge/INSTAGRAM-FF00AA?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/raphael-jose-b08091165/">
 <img src="https://img.shields.io/badge/LINKEDIN-00C8FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://twitter.com/taylor_raphael">
 <img src="https://img.shields.io/badge/TWITTER-00D9FF?style=for-the-badge&logo=x&logoColor=black"/>
 </a>
+
 <a href="mailto:raphaeltaylor60@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-FF00AA?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://www.facebook.com/raphael.taylor.966">
 <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
@@ -76,9 +85,13 @@ raphael@cyberworld:~$ whoami
 <div align="center">
 
 ```text
-[ SYSTEM STATUS: OPERATIONAL ]
-[ USER: RAPHAEL-JOSE ]
-[ END OF TRANSMISSION ]
+╔══════════════════════════════════════╗
+║          SYSTEM OPERATIONAL          ║
+║                                      ║
+║          USER: RAPHAEL-JOSE          ║
+║          ACCESS: GRANTED             ║
+║          CONNECTION: SECURE          ║
+╚══════════════════════════════════════╝
 ```
 
 </div>
